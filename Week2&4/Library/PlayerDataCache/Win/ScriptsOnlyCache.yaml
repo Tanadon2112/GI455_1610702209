@@ -50,11 +50,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 12704}
+      Script: {instanceID: 12520}
     - Class: 114
-      Script: {instanceID: 13054}
+      Script: {instanceID: 12706}
     - Class: 114
-      Script: {instanceID: 13472}
+      Script: {instanceID: 13056}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -368,6 +368,12 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 9060f753c9d7a85e3ce5e5db04b7c09d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChatWebSocket
+    className: WebsocketConnection1
+  - hash:
+      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -504,13 +510,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 7db348d32bd8d0ec41beb7782a1b6c27
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ChatWebSocket
-    className: WebsocketConnection1
   platform: 5
   scenePathNames:
   - Assets/Scenes/Week4.unity
-  playerPath: C:/Users/ASUS/Desktop/Week4 Homework/Week2.exe
+  playerPath: C:/Users/ASUS/Desktop/Week5/Week2.exe
